@@ -1,4 +1,3 @@
-package org.example;
 
 public class Pessoa {
     public static boolean emailValid(String email){
